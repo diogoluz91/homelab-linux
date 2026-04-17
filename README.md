@@ -2,7 +2,7 @@
 Home lab Linux — Raspberry Pi setup, SSH, users e automação com Bash
 
 
-#Referencias:
+**Referencias:
 •	NetworkChuck (YouTube) — Linux, VPNs, redes, Kubernetes. Excelente para iniciantes, muito prático
 •	TechnoTim (YouTube) — Home lab, Proxmox, K3s, Monitoring. O canal mais alinhado com este roadmap
 •	Fireship (YouTube) — Conceitos rápidos de Docker, CI/CD, cloud
